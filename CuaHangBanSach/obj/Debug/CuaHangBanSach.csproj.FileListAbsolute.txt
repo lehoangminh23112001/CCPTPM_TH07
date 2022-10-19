@@ -1,0 +1,10 @@
+D:\Winform\TH_05\CuaHangBanSach\bin\Debug\CuaHangBanSach.exe.config
+D:\Winform\TH_05\CuaHangBanSach\bin\Debug\CuaHangBanSach.exe
+D:\Winform\TH_05\CuaHangBanSach\bin\Debug\CuaHangBanSach.pdb
+D:\Winform\TH_05\CuaHangBanSach\obj\Debug\CuaHangBanSach.csprojAssemblyReference.cache
+D:\Winform\TH_05\CuaHangBanSach\obj\Debug\CuaHangBanSach.frmCuaHangBanSach.resources
+D:\Winform\TH_05\CuaHangBanSach\obj\Debug\CuaHangBanSach.Properties.Resources.resources
+D:\Winform\TH_05\CuaHangBanSach\obj\Debug\CuaHangBanSach.csproj.GenerateResource.cache
+D:\Winform\TH_05\CuaHangBanSach\obj\Debug\CuaHangBanSach.csproj.CoreCompileInputs.cache
+D:\Winform\TH_05\CuaHangBanSach\obj\Debug\CuaHangBanSach.exe
+D:\Winform\TH_05\CuaHangBanSach\obj\Debug\CuaHangBanSach.pdb
